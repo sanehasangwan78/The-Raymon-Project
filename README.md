@@ -1,2 +1,5 @@
-# The-Raymon-Project
-It is an e commerce website which I have made using Frontend web development (HTML, CSS, javascript, bootstrap ,angular) . It is a user friendly shop's online website. 
+This is my site view 
+Thanks for showing intereset
+
+
+https://amanjaiman1.github.io/INT-219-SUB-PROJECTS/
